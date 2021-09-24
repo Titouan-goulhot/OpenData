@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenData", "OpenData\OpenData.csproj", "{91415B3A-3CF4-4E15-A939-BDA85F8BF1E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dll", "fdp\dll.csproj", "{53284F0B-31F9-42B3-AAB6-7A0FB40E47B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenDataTests", "OpenDataTests\OpenDataTests.csproj", "{AD3AE633-78E6-4494-A544-D9CEDE9E6A51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91415B3A-3CF4-4E15-A939-BDA85F8BF1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91415B3A-3CF4-4E15-A939-BDA85F8BF1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91415B3A-3CF4-4E15-A939-BDA85F8BF1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91415B3A-3CF4-4E15-A939-BDA85F8BF1E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53284F0B-31F9-42B3-AAB6-7A0FB40E47B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53284F0B-31F9-42B3-AAB6-7A0FB40E47B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53284F0B-31F9-42B3-AAB6-7A0FB40E47B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53284F0B-31F9-42B3-AAB6-7A0FB40E47B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3AE633-78E6-4494-A544-D9CEDE9E6A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3AE633-78E6-4494-A544-D9CEDE9E6A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3AE633-78E6-4494-A544-D9CEDE9E6A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3AE633-78E6-4494-A544-D9CEDE9E6A51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {970039EA-0058-4ACD-A559-DBB87C128D38}
+	EndGlobalSection
+EndGlobal
