@@ -31,7 +31,7 @@ La conséquence de cette ouverture est le manque de support d’applications qui
 
 * Windows Presentation Foundation (WPF) ->  Infrastructure d’interface utilisateur qui permet de créer des applications de bureau clientes. WPF utilise le langage XAML (Extensible Application Markup Language) pour fournir un modèle déclaratif utilisé pour la programmation d’applications. Le Framework fait partie de .NET.
 
- * Modèle Model-View-ViewModel (MVVM) -> **La vue « sait » le modèle de vue et le modèle de vue « connaît » le modèle, mais le modèle n’est pas conscient du modèle de vue et le modèle de vue n’est pas conscient de la vue.** 
+ * Modèle Model-View-ViewModel (MVVM) -> _**La vue « sait » le modèle de vue et le modèle de vue « connaît » le modèle, mais le modèle n’est pas conscient du modèle de vue et le modèle de vue n’est pas conscient de la vue.**_
 "Permet de séparer correctement la logique métier et de présentation d’une application à partir de son interface utilisateur. Permet de résoudre de nombreux problèmes de développement et peut rendre une application plus facile à tester, à gérer et à évoluer. "
  
 ![image info](https://docs.microsoft.com/fr-fr/xamarin/xamarin-forms/enterprise-application-patterns/mvvm-images/mvvm.png)
