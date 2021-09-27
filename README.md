@@ -4,7 +4,7 @@
 
 # Vocabulary :
 
-* Property -> Semblable à une fusion entre un attribut et une méthode. En général elle contient 2 methodes, ses accesseurs, {get; set;}
+* ### Property -> Semblable à une fusion entre un attribut et une méthode. En général elle contient 2 methodes, ses accesseurs, {get; set;}
 
 * Deserialize -> Convertit une chaîne JSON en objet du type spécifié. (ex : ``` public object Deserialize (string input, Type targetType); ```)
 
