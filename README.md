@@ -27,9 +27,9 @@ Une classe ou un struct peuvent implémenter plusieurs interfaces. Une classe pe
 -> Les fichers System viennent du framework .NET à l'installation
 
 *  ### Console. 
-           * #### Write() -> Ecrit la representation textuelle des objets en paramètres.
-           * #### WriteLine() -> Écrit la valeur de chaîne spécifiée en paramètre
-           * #### Read() -> Lit le caractère suivant du flux d'entrée standard.
+           *  Write() -> Ecrit la representation textuelle des objets en paramètres.
+           *  WriteLine() -> Écrit la valeur de chaîne spécifiée en paramètre
+           *  Read() -> Lit le caractère suivant du flux d'entrée standard.
           
 
 * ### Framework.NET // Core.Net 
