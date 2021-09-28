@@ -48,6 +48,6 @@ La conséquence de cette ouverture est le manque de support d’applications qui
  
 ![image info](https://docs.microsoft.com/fr-fr/xamarin/xamarin-forms/enterprise-application-patterns/mvvm-images/mvvm.png)
 
-Relation entre Vue <-> Vue-Modèle <-> Modèle  
+ * ### Relation entre Vue <-> Vue-Modèle <-> Modèle  
 
 ![image info](https://japf.developpez.com/tutoriels/dotnet/mvvm-pour-des-applications-wpf-bien-architecturees-et-testables/images/collaboration-designer-developper.png)
