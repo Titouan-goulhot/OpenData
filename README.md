@@ -47,3 +47,7 @@ La conséquence de cette ouverture est le manque de support d’applications qui
 "Permet de séparer correctement la logique métier et de présentation d’une application à partir de son interface utilisateur. Permet de résoudre de nombreux problèmes de développement et peut rendre une application plus facile à tester, à gérer et à évoluer. "
  
 ![image info](https://docs.microsoft.com/fr-fr/xamarin/xamarin-forms/enterprise-application-patterns/mvvm-images/mvvm.png)
+
+Relation entre Vue <-> Vue-Modèle <-> Modèle  
+
+![image info](https://japf.developpez.com/tutoriels/dotnet/mvvm-pour-des-applications-wpf-bien-architecturees-et-testables/images/collaboration-designer-developper.png)
