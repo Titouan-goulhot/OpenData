@@ -13,7 +13,7 @@
 * ### JSon (JavaScript Objet Notation)
  -> format de texte indépendant de tout langage. I permet l'échange de données textuelles. 
 
-*  ###Inteface 
+*  ### Inteface 
 -> Une interface ne peut pas être instanciée directement. Ses membres sont implémentées par une classe ou un struct qui implémentent l'interface.
 Une classe ou un struct peuvent implémenter plusieurs interfaces. Une classe peut hériter d'une classe de base et également implémenter une ou plusieurs interfaces.
 
