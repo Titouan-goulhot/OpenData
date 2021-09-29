@@ -51,3 +51,6 @@ La conséquence de cette ouverture est le manque de support d’applications qui
  * ### Relation entre Vue <-> Vue-Modèle <-> Modèle  
 
 ![image info](https://japf.developpez.com/tutoriels/dotnet/mvvm-pour-des-applications-wpf-bien-architecturees-et-testables/images/collaboration-designer-developper.png)
+
+* ### Différence entre MVVM & MVC
+-> MVC est un modèle architectural couramment utilisé pour développer des interfaces utilisateur qui divise une application en trois parties interconnectées appelées modèle, vue et contrôleur. MVVM est un modèle d'architecture logicielle qui facilite la séparation du développement des interfaces utilisateur graphiques du développement de la logique métier. C’est la différence conceptuelle entre MVC et MVVM.
